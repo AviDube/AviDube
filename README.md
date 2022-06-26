@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Avi Dube
-- 👀 I’m interested in ...
-- 🌱 Aerospace enginnering at Purdue
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in automation and machine learning
+- 🌱 Computer Engineering at Purdue
 
 <!---
 AviDube/AviDube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
