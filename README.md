@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avi Dube
-- 👀 I’m interested in automation and machine learning
+- 👀 I’m interested in autonomy and machine learning
 - 🌱 Computer Engineering at Carnegie Mellon University
 
 <!---
