@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Avi Dube
 - 👀 I’m interested in autonomy and machine learning
+- 🚁 Graduate Research Assistantship at AirLab (Love Drones!!)
 - 🌱 Computer Engineering at Carnegie Mellon University
 
 <!---
